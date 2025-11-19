@@ -1,0 +1,4 @@
+MANERA EN QUE FUNCIONA LOS CRUDS:
+PRIMERO CREAR CATEGORIA Y guardar el id de esa categoría
+SEGUNDO CREAR PROVEEDOR y guardar el id de ese proveedor
+TERCERO CREAR PRODUCTO y en los apartados de proveedorid y categoriaid colocar los id que guardaste y te aparecieron con anterioridad.
